@@ -4,22 +4,6 @@
 
 ![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
 
-## Features
-
-- 🎮 Fully functional Tic Tac Toe game
-- 📊 Score tracking for X, O, and draws
-- 📜 Game history with timestamps
-- 🏆 Highlights winning combinations
-- 🔄 Reset game and statistics
-- 📱 Responsive design for all devices
-
-## Technologies Used
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Lucide React for icons
-
 ## Project Structure
 
 ```
@@ -34,19 +18,6 @@ src/
 ├── App.tsx             # Main application component
 └── main.tsx           # Entry point
 ```
-
-## Game Logic
-
-The game implements the following rules:
-
-1. X goes first, followed by O
-2. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins
-3. If all 9 squares are filled and no player has 3 marks in a row, the game is a draw
-4. Winning combinations are highlighted
-5. Game statistics are tracked and displayed
-
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v14 or higher)
