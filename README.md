@@ -1,4 +1,4 @@
-# DevSecOps Pipeline Implementation for Tic Tac Toe Game
+# DevSecOps Pipeline
 ```
 ### Prerequisites
 
