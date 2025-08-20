@@ -1,3 +1,7 @@
+#Used - Github container registry - Dockerfile 
+#Argocd - Continuous Dellivery (syncs with github repo)
+
+
 name: CI/CD Pipeline
 
 on:
